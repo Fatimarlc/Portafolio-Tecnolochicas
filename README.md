@@ -1,6 +1,7 @@
 # Portafolio de Evidencias Tecnolochicas
 
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños, emplenado tecnologías Frontend como:
+
 -CSS.
 -HTML 5.
 -Bootstrap.
