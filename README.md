@@ -3,8 +3,11 @@
 Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adaptable a dispositivos de distintos tamaños, emplenado tecnologías Frontend como:
 
 -CSS.
+
 -HTML 5.
+
 -Bootstrap.
+
 -Js.
 
 El propósito de esta página web es mostrar el portafolio de proyectos y mi experiencia. Incluye una descripción breve de mi motivación, experiencia, proyectos, artículos publicados y formas de contacto. 
