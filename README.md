@@ -6,7 +6,7 @@ Este proyecto creado para el bootcamp Tecnolochicas PRO, es una página web adap
 
 -HTML 5.
 
--Bootstrap.
+-Bootstrap 5.
 
 -Js.
 
